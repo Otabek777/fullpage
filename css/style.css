@@ -49,3 +49,9 @@ h2 {
   font-size: 20px;
   color: rgb(182, 182, 182);
 }
+html {
+  position: fixed;
+  top: 0;
+  left: 0;
+  height: 90vh !important;
+}
